@@ -1,0 +1,19 @@
+{
+  "name": "WeatherApp",
+  "displayName": "WeatherApp",
+  "expo": {
+    "name": "",
+    "slug": "",
+    "web": {
+      "build": {
+        "babel": {
+          "include": [
+            "react-router-native",
+            "react-native-iphone-x-helper",
+            "react-native-keyboard-aware-scroll-view"
+          ]
+        }
+      }
+    }
+  }
+}
